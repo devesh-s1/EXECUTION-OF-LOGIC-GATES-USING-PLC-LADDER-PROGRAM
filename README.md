@@ -1,8 +1,5 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
-NAME : S DEVESH SHARMA
-REGISTER NUMBER : 212222110008
-DEPARTMENT : CSE ( IoT )
-YEAR : III
+
 # Aim:
 To implement and verify the functioning of basic logic gates (AND, OR, NOT, NAND, NOR, XOR) using a PLC ladder program and simulate the outputs.
 
